@@ -1,8 +1,8 @@
 #!/bin/bash
 
-TASK_ID="5f0c9bca-9669-41e6-82b0-b772ea64cfc1"
-MODEL="John6666/nova-anime-xl-pony-v5-sdxl"
-DATASET_ZIP="https://gradients.s3.eu-north-1.amazonaws.com/5505def56da89675_train_data.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVVZOOA7SA4UOFLPI%2F20251221%2Feu-north-1%2Fs3%2Faws4_request&X-Amz-Date=20251221T015129Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b006855ed6da9dd449362d10c5b4346e4e0a5ccec6d66254ec01e066a96c9dd2"
+TASK_ID="58684b15-d0b0-443a-a9bd-7a179022dba3"
+MODEL="OnomaAIResearch/Illustrious-xl-early-release-v0"
+DATASET_ZIP="https://s3.eu-central-003.backblazeb2.com/gradients-validator/dd8329c969587fb8_train_data.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260102%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260102T104813Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7bb3f37b1ae24bf7b88b2f6893bf8ff0bb6c7c9b25922e2cc001dbaa2349d2c0"
 MODEL_TYPE="sdxl"
 EXPECTED_REPO_NAME="test_person"
 
