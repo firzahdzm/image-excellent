@@ -131,9 +131,7 @@
             "max_train_epochs": 30,
             "train_batch_size": 6,
             "lr_scheduler": "constant_with_warmup",
-            "lr_warmup_steps": 150,
-            "network_dim": 32,
-            "network_alpha": 16
+            "lr_warmup_steps": 150
         },
         "eb324bfcad14e8f1d46346f46ae7af7d3e58c3babbc1f699ee7c61baab291369": {},
         "162748f97994bc2ffaafdcfd900e06e245e85a9826fb77aa8568846fb6b3f15d": {},
